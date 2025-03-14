@@ -1,0 +1,7 @@
+C:\Users\student1\source\repos\Zadanie_YP\Zadanie_YP\obj\Debug\Zadanie_YP.csproj.AssemblyReference.cache
+C:\Users\student1\source\repos\Zadanie_YP\Zadanie_YP\obj\Debug\Zadanie_YP.csproj.CoreCompileInputs.cache
+C:\Users\student1\source\repos\Zadanie_YP\Zadanie_YP\bin\Debug\Zadanie_YP.exe.config
+C:\Users\student1\source\repos\Zadanie_YP\Zadanie_YP\bin\Debug\Zadanie_YP.exe
+C:\Users\student1\source\repos\Zadanie_YP\Zadanie_YP\bin\Debug\Zadanie_YP.pdb
+C:\Users\student1\source\repos\Zadanie_YP\Zadanie_YP\obj\Debug\Zadanie_YP.exe
+C:\Users\student1\source\repos\Zadanie_YP\Zadanie_YP\obj\Debug\Zadanie_YP.pdb
